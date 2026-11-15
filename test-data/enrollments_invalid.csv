@@ -1,0 +1,5 @@
+enrollment_id,center_id,student_id,start_date,status
+ENR-2001,CENTER-A,STU-601,2026-10-02,Active
+ENR-2001,CENTER-A,STU-601,2026-10-02,Active
+,CENTER-A,STU-602,not-a-date,Unknown
+ENR-2004,,STU-604,2026-10-07,Active
