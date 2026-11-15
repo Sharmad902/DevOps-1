@@ -1,0 +1,4 @@
+enrollment_id,center_id,student_id,start_date,status
+ENR-1001,CENTER-A,STU-501,2026-10-01,Active
+ENR-1002,CENTER-A,STU-502,2026-10-03,Active
+ENR-1003,CENTER-B,STU-503,2026-10-05,Pending
