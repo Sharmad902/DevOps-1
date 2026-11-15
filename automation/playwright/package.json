@@ -1,0 +1,13 @@
+{
+  "name": "billing-platform-qa-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Starter Playwright UI test for a fictional billing platform QA portfolio",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
