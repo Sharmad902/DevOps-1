@@ -2,7 +2,7 @@
 
 A fresher-level, sample QA portfolio project based on a fictional multi-role billing platform. It demonstrates test planning, functional and role-based testing, billing reconciliation, CSV upload validation, defect documentation, SQL checks, and a starter Playwright example.
 
-> **Important:** This is a self-created practice project for portfolio demonstration. The platform and sample defects/data are fictional. The sample bug reports are illustrative test findings, not defects discovered in a real company's system. The author should execute and verify the test cases before describing them as personally executed.
+> **Important:** This is a self-created practice project for portfolio demonstration. The platform and sample defects/data are fictional. The sample bug reports are illustrative test findings, not defects discovered in a real company's system.
 
 ## Project scope
 
